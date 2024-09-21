@@ -5,6 +5,7 @@ public class Exercicio_escrever_comentar {
 
  
         // Exemplo de comentário de uma linha
+        
 
 
         /*
